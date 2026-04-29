@@ -43,8 +43,6 @@ The two collapsible code sections in the sidebar display **the actual code from 
 
 ## 3. Where approximations were made
 
-This is the most important section to understand before presenting the UI.
-
 ### 3.1 — LSOA risk scores are approximated, not model-predicted
 
 The notebook trains a Random Forest that predicts `Hotspot = 0/1` for a given `LSOA × Year × MonthNum`. The **actual fitted model is not embedded in the HTML**. Embedding it would require serialising the trained scikit-learn pipeline (e.g. via `joblib`) and running Python in the browser, which is not feasible in a standalone HTML file.
