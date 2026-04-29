@@ -99,7 +99,7 @@ The notebook uses `MonthNum` but not day of week, because the Metropolitan Polic
 
 ---
 
-## 5. Suggested improvements for future work
+## 5. Notable future implementations
 
 * **Embed real hotspot rates** by exporting `hotspot_rank` from the notebook as JSON and loading it into the HTML, replacing the approximated risk scores.
 * **Use official LSOA boundaries** from the ONS Open Geography Portal for accurate spatial snapping and a precise borough outline.
