@@ -1,10 +1,8 @@
 # Bexley Crime Hotspot Predictor — UI Summary
 
-> This document explains how the interactive front-end (`bexley_safety_ui.html`) was derived from the Jupyter notebook, what modelling decisions were carried across faithfully, and where approximations or simplifications were introduced. Written for transparency when sharing this project on GitHub.
-
 ---
 
-## 1. What the notebook does
+## 1. What does the notebook do?
 
 The notebook (`Bexley_Crime_Hotspot_Project_Final_Clean.ipynb`) follows a standard classification pipeline:
 
