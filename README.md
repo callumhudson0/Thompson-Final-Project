@@ -6,7 +6,7 @@
 
 ## 1. What the notebook does
 
-The notebook (`Bexley_Crime_Hotspot_Project_Final.ipynb`) follows a standard classification pipeline:
+The notebook (`Bexley_Crime_Hotspot_Project_Final_Clean.ipynb`) follows a standard classification pipeline:
 
 1. **Data source** — Metropolitan Police monthly CSV files (`metropolitan-street.csv`) covering March 2023 to February 2026, filtered to the London Borough of Bexley.
 2. **Target engineering** — Incident rows are aggregated to an `LSOA name × Year × MonthNum` grain. An LSOA-month is labelled `Hotspot = 1` if its crime count meets or exceeds the **75th percentile** of all monthly crime counts across Bexley.
