@@ -1,4 +1,8 @@
 # Bexley Crime Hotspot Predictor — UI Summary
+___
+
+## Live Demo
+[Click here to open the interactive UI](https://callumhudson0.github.io/Thompson-Final-Project/bexley_safety_ui.html)
 
 ---
 
