@@ -2,6 +2,7 @@
 ___
 
 [Click here to open the interactive UI](https://callumhudson0.github.io/Thompson-Final-Project/bexley_safety_ui.html)
+
 ---
 
 ## 1. What does the notebook do?
